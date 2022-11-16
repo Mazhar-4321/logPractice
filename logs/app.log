@@ -1,0 +1,3 @@
+[INFO ] 2022-11-16 19:09:31.786 [main] App - info
+[ERROR] 2022-11-16 19:09:31.798 [main] App - Error
+[FATAL] 2022-11-16 19:09:31.798 [main] App - fatal
